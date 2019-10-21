@@ -1,0 +1,60 @@
+.abc
+{
+background-color: green;
+font-style:italic;
+font-family: Ariel;
+font-variant: small-caps;
+border-style:solid;
+border-width:3px;
+border-color:yellow;
+padding-top: 50px;
+padding-right: 6px;
+padding-bottom: 50px;
+padding-left: 8px;
+}
+
+.dfg
+{
+background-color: orange;
+font-style:italic;
+font-family: Comic Sans Ms;
+font-variant: small-caps;
+line-height: 2;
+padding-top: 50px;
+padding-right: 4px;
+padding-bottom: 50px;
+padding-left: 5px;
+border-style:solid;
+border-width:3px;
+border-color:green;
+}
+.abc: hover
+{
+background-image: url("website.jpg") !important;
+<!--background-repeat: no repeat; -->
+}
+h1
+{
+color: gray;
+font-size: 50px;
+font-family: Ariel;
+line-height: 3;
+text-align: center;
+}
+
+a{
+color: pink;
+}
+
+a:hover
+{
+color: red !important;
+}
+
+img
+{
+ position:absolute;
+top:0;
+left:0;
+
+}
